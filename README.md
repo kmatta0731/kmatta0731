@@ -1,6 +1,6 @@
 <div id="header"align="center">
   
-<img src="![woman](https://user-images.githubusercontent.com/97375442/234286548-cddd24b0-b029-4b83-b58a-b0d4ef61e634.png)" alt="gif" width="100"/>
+<img src="![woman](https://user-images.githubusercontent.com/97375442/234286548-cddd24b0-b029-4b83-b58a-b0d4ef61e634.png)" alt="img" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/kathie-matta/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>

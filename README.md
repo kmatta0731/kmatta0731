@@ -1,6 +1,6 @@
 <div id="header"align="center">
   
-<img src="![woman](https://user-images.githubusercontent.com/97375442/234286548-cddd24b0-b029-4b83-b58a-b0d4ef61e634.png)" width="100"/>
+![woman](https://user-images.githubusercontent.com/97375442/234286548-cddd24b0-b029-4b83-b58a-b0d4ef61e634.png)
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/kathie-matta/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
@@ -51,16 +51,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmatta0731&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-
-
-
-
-
-### Hi there 👋
 
 <!--
 **kmatta0731/kmatta0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

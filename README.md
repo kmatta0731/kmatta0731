@@ -1,11 +1,11 @@
 <div id="header"align="center">
   
-![woman](https://user-images.githubusercontent.com/97375442/234286548-cddd24b0-b029-4b83-b58a-b0d4ef61e634.png)
+![woman](https://user-images.githubusercontent.com/97375442/234286548-cddd24b0-b029-4b83-b58a-b0d4ef61e634.png) height
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/kathie-matta/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin"/></a>
-    <a href="https://kathiematta.online"><img src="https://img.shields.io/badge/-My%20Website-blueviolet" alt="website"/></a>
   </div>
+  <a href="https://kathiematta.online"><img src="https://img.shields.io/badge/-My%20Website-blueviolet" alt="website"/></a>
   
   <img src="https://komarev.com/ghpvc/?username=ViLinh27&style=flat-square&color=blue" alt="view count"/>
   <h1>
@@ -15,7 +15,7 @@
 </div>
 
 <div id="banner" align="center">
-  <iframe src="https://giphy.com/embed/h4yJ4ARfLKih5doDQC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-funny-gif-h4yJ4ARfLKih5doDQC">via GIPHY</a></p>" height="300" object-fit="contain"/>
+  <img src="https://giphy.com/embed/h4yJ4ARfLKih5doDQC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/moodman-funny-gif-h4yJ4ARfLKih5doDQC">via GIPHY</a></p>" height="300" object-fit="contain"/>
 </div>
 
 ---

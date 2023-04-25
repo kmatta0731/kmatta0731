@@ -15,7 +15,7 @@
 </div>
 
 <div id="banner" align="center">
-  <img src="https://giphy.com/embed/h4yJ4ARfLKih5doDQC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/moodman-funny-gif-h4yJ4ARfLKih5doDQC">via GIPHY</a></p>" height="300" object-fit="contain"/>
+  <iframe src="https://giphy.com/embed/h4yJ4ARfLKih5doDQC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-funny-gif-h4yJ4ARfLKih5doDQC">via GIPHY</a></p>
 </div>
 
 ---
